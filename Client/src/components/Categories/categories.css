@@ -1,0 +1,12 @@
+.catContainer{
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+}
+.catDataContainer{
+    margin: auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+}

@@ -1,0 +1,35 @@
+/*        Title  Your News     */
+.homeTitle h1{
+    color: rgb(0, 109, 212);
+
+}
+.homeTitle{
+    text-align: center;
+    border: 1px;
+    border-color: black;
+    border-width: 1px;
+}
+/*        News       */
+.newsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 15px;
+    gap: 1rem;
+}
+.newsContainer p {
+    color: rgb(14, 13, 13);
+    font-size: small;
+}
+/*       Search       */
+
+.searchContainer{
+    margin: auto;
+    width: 50%;
+}
+.categoryButtonsContainer{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
